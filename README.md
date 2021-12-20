@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokibulslam&label=Profile%20views&color=0e75b6&style=flat" alt="rokibulslam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rokibulslam" alt="rokibulslam" /></a> </p>
 
-- 🌱 I’m currently learning **REDUX, React Native**
+- 🌱 I’m currently learning **Redux, React Native**
 
 - 👨‍💻 All of my projects are available at [https://rokibul-islam.netlify.app/](https://rokibul-islam.netlify.app/)
 
