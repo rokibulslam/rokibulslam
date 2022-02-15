@@ -8,7 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://rokibul-islam.netlify.app/](https://rokibul-islam.netlify.app/)
 
-- 📝 I regularly write articles on [https://dev.to/rokibulslam](https://dev.to/rokibulslam)
 
 - 💬 Ask me about **React**
 
