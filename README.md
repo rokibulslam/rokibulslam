@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokibulslam&label=Profile%20views&color=0e75b6&style=flat" alt="rokibulslam" /> </p>
 
 
-- 🌱 I’m currently learning **Redux, React Native**
+- 🌱 I’m currently learning **Advance React, Redux & Typescript**
 
 - 👨‍💻 All of my projects are available at [https://rokibul-islam.netlify.app/](https://rokibul-islam.netlify.app/)
 
