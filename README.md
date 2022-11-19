@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm MD Rokibul Islam</h1>
-<h3 align="center">MERN Stack Web Developer</h3>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+## 🚀 About Me
 
-
+🎓 I am Rokibul Islam, a **Full Stack Web Developer** (specializing in **React Applications**)
 - 📫 How to reach me **rokibul.islam0111@gmail.com**
 
 ## 🛠️ Skills
