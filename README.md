@@ -32,9 +32,11 @@
 
 ### Back-End Development
 
-![nodejs](https://img.shields.io/badge/nodejs-#339933?style=for-the-badge&logo=Nodejs&logoColor=61DAFB)
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![JSON-Web-Tokens](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JWT&logoColor=white)
+
 
 <!-- 
 ### Block-Chain Development
