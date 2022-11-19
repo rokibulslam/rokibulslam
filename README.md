@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD Rokibul Islam</h1>
 <h3 align="center">MERN Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rokibulslam&label=Profile%20views&color=0e75b6&style=flat" alt="rokibulslam" /> </p>
-
-
-<!-- - 👨‍💻 All of my projects are available at [https://rokibul-islam.netlify.app/](https://rokibul-islam.netlify.app/) -->
-
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **rokibul.islam0111@gmail.com**
 
